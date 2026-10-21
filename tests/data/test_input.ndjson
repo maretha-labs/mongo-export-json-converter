@@ -1,0 +1,3 @@
+{"ecm:primaryType": "Policy", "ecm:parentId": "original-parent", "ecm:ancestorIds": ["original-root"], "af:title": "Synthetic Policy"}
+{"ecm:primaryType": "Billing", "ecm:parentId": "original-parent", "ecm:ancestorIds": ["original-root"], "af:title": "Synthetic Billing"}
+{"ecm:primaryType": "Payments", "ecm:parentId": "original-parent", "ecm:ancestorIds": ["original-root"], "af:title": "Synthetic Payments"}
